@@ -1,5 +1,9 @@
 package lottery;
 
+/*Lottery program that picks 4 random numbers between 1-9. 
+If there are duplicates it needs to run till there are no duplicates and 
+you need to keep track of the times it took to get it run successfully with no duplicate numbers. */
+
 public class Lottery {
 
     public static void main(String[] args) {
